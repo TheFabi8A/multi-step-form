@@ -5,9 +5,9 @@
 @font-face {
   font-family: "Ubuntu Medium";
   src:
-    url("fonts/Ubuntu-Medium.woff2") format("woff2"),
-    url("fonts/Ubuntu-Medium.woff") format("woff"),
-    url("fonts/Ubuntu-Medium.ttf") format("truetype");
+    url("/fonts/Ubuntu-Medium.woff2") format("woff2"),
+    url("/fonts/Ubuntu-Medium.woff") format("woff"),
+    url("/fonts/Ubuntu-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
